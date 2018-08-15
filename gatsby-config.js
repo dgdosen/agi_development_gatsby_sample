@@ -1,6 +1,7 @@
 module.exports = {
+  pathPrefix: '/agi_development_gatsby_sample',
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'AGI Development Gatsby Sample',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
